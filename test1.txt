@@ -1,0 +1,6 @@
+10 a = 5 : b  = 10
+95 c = a + b
+12 write c:write a+b-c
+10 a = 1
+$$
+
